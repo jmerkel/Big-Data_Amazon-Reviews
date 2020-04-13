@@ -2,6 +2,10 @@
 ## Amazon Reivew Comparison - Vine (Trusted Reviewers) vs Open (non-Vine program) reviews
 ### UC Berkeley - jmerkel_Module_16
 
+## Purpose
+Are Vine Program Reviews more reliable than non-Vine reviews
+
+## Summary of Analysis
 In looking at the summary metrics between the Vine & Non-Vine reviews, there are a few differences that stand out. Aside from the numerical differences between the Vine and Non-Vine datasets (There were about 480x more Non-vine reviews), the proportion of 5 star reviews to overall reviews as well as the number of helpful votes differed significantly.
 
 The first difference is the proportion of reviews that are 5 stars. For the Vine set, just under half of the reviews were 5 stars. This would be worthy of more investigation for fake reviews, but the nearly 3/4ths of the reviews of the Non-vine set were 5 stars. If the vine-set was manipulated, we would expect a high proportion of 5 star reviews to bring the average up.

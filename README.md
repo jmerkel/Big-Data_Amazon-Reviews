@@ -1,6 +1,5 @@
 # Big Data - Review ETL & Analysis
-## Amazon Reivew Comparison - Vine (Trusted Reviewers) vs Open (non-Vine program) reviews
-### UC Berkeley - jmerkel_Module_16
+### Amazon Reivew Comparison - Vine (Trusted Reviewers) vs Open (non-Vine program) reviews
 
 ## Purpose
 Are Vine Program Reviews more reliable than non-Vine reviews
